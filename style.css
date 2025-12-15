@@ -8,3 +8,24 @@ body {
 hr{
     border: 1px solid black;
 }
+#pro {
+    color: darkred;
+}
+.credit {
+    color: darkgreen;
+}
+.cred {
+    color: darkblue;
+}
+#store{
+    color: darkslategray;
+}
+#intern {
+    color: darkorange;
+}
+.sale {
+    color: red;
+}
+#sale {
+    color: purple;
+}
